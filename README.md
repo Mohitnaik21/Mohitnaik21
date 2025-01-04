@@ -7,8 +7,7 @@ I am a passionate and driven software developer focusing on full-stack developme
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-naik21) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohit.naik@uga.edu)
-📧 Email: mohit.naik@uga.edu
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohit.naik@uga.edu) : mohit.naik@uga.edu
 
 
 # 💻 Tech Stack:

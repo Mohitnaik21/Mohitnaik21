@@ -1,4 +1,4 @@
-## Hi, I’m Mohit Naik 👋 | Full-stack Developer | Machine Learning Engineer
+## Hi, I am Mohit Naik 👋 | Full-stack Developer | Machine Learning Engineer
 
 
 # 👨‍💻 About Me:

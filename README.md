@@ -1,8 +1,8 @@
-## Hi, I am Mohit Naik 👋 | Full-stack Developer | Machine Learning Engineer
+## Hi, I am Mohit Naik 👋 | Full-stack Developer | AI/ML Engineer
 
 
 # 👨‍💻 About Me:
-I am a passionate and driven software developer focusing on full-stack development and machine learning. My journey in tech started with a simple desire to understand how things work, and now, I am driven by the challenge of solving real-world problems through innovative technology. I enjoy crafting scalable web applications and exploring the magic of AI/ML to create meaningful, data-driven solutions. For me, technology is more than just code—it’s about building something impactful that can change the way we interact with the world.<br><br>I'm actively seeking opportunities where I can contribute to meaningful projects, grow alongside talented teams, and make a difference in the tech industry.<br>
+I am a passionate and driven software developer focusing on full-stack development and AI-integrated development. My journey in tech started with a simple desire to understand how things work, and now, I am driven by the challenge of solving real-world problems through innovative technology. I enjoy crafting scalable web applications and exploring the magic of AI/ML to create meaningful, data-driven solutions. For me, technology is more than just code; it’s about building something impactful that can change the way we interact with the world.<br><br>I am actively seeking opportunities where I can contribute to meaningful projects, grow alongside talented teams, and make a difference in the tech industry.<br>
 
 
 ## 🌐 Socials:
@@ -69,6 +69,6 @@ I am a passionate and driven software developer focusing on full-stack developme
 - Strong Communication Skills
 
 #### 🚀 Let’s Collaborate
-I’m always open to collaborating on exciting projects, contributing to open source, and exploring roles in full-stack development, machine learning engineering, and data science. Check out my repositories to see my work, and feel free to connect!
+I am always open to collaborating on exciting projects, contributing to open source, and exploring roles in full-stack development and data science, where I can apply my skills in AI-powered systems, data-driven decision making, and software engineering to build impactful, intelligent solutions. Check out my repositories to see my work, and feel free to connect!
 
 

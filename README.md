@@ -1,74 +1,87 @@
-## Hi, I am Mohit Naik 👋 | Full-stack Developer | AI/ML Engineer
+# Mohit Naik
 
+Full stack software engineer working on data-heavy products, backend systems, and production-facing software.
 
-# 👨‍💻 About Me:
-I am a passionate and driven software developer focusing on full-stack development and AI-integrated development. My journey in tech started with a simple desire to understand how things work, and now, I am driven by the challenge of solving real-world problems through innovative technology. I enjoy crafting scalable web applications and exploring the magic of AI/ML to create meaningful, data-driven solutions. For me, technology is more than just code; it’s about building something impactful that can change the way we interact with the world.<br><br>I am actively seeking opportunities where I can contribute to meaningful projects, grow alongside talented teams, and make a difference in the tech industry.<br>
+I build websites, apps, backend services, and database-backed features, with attention to what happens after code is shipped.
 
+Currently working on Web3Health at the University of Georgia SensorWeb Lab, a platform for consented wearable and survey data collection across iOS, Android, and web.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-naik21) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohit.naik@uga.edu) : mohit.naik@uga.edu
-
-
-# 💻 Tech Stack:
-
-#### **Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)   ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)   ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=microsoftsqlserver&logoColor=white)  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+[Portfolio](https://mohitnaik21.github.io/) · [LinkedIn](https://linkedin.com/in/mohit-naik21) · [Email](mailto:mohit.naik@uga.edu) · [GitHub](https://github.com/Mohitnaik21)
 
 ---
 
-#### **Front-End**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)  ![.NET](https://img.shields.io/badge/-DotNet-512BD4?logo=dotnet&logoColor=white)  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)  
+## Current focus
+
+- Web and app products that connect user-facing features with backend logic
+- Backend services, databases, exports, authentication, and access control
+- Health data collection using Apple HealthKit and Android Health Connect
+- Production monitoring, deployment support, logs, and troubleshooting
+- Applied AI and ML systems where outputs need to be useful and checked
 
 ---
 
-#### **Back-End**  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  ![.NET Core](https://img.shields.io/badge/-DotNet%20Core-512BD4?logo=dotnet&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
+## Selected repositories
+
+### Adaptive Learning Platform
+
+Learning platform using code analysis, concept mapping, and retrieval-based feedback.
+
+- Real-time code feedback and generated hints
+- Instructor-facing learning gap insights
+- A/B tested improvement in measured learning outcomes
+
+### Bone Anomaly and Fracture Detection
+
+Medical imaging project using deep learning for musculoskeletal X-ray classification.
+
+- ResNet50-based classifier on the MURA dataset
+- LRP-based interpretability outputs
+- Early stopping and adaptive learning rate training improvements
+
+Repository: [Bone Detection and Classification](https://github.com/Mohitnaik21/Bone_Detection_and_Classification)
+
+### Agentic API Builder
+
+Developer automation project for generating starter application code from documentation and task instructions.
+
+- FastAPI service generation
+- React component output
+- Retrieval-grounded code generation and validation checks
+
+Repository: [Agentic AI API Builder](https://github.com/Mohitnaik21/Agentic-AI-API-Builder)
 
 ---
 
-#### **Databases**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)  ![SSMS](https://img.shields.io/badge/-SSMS-CC2927?logo=microsoftsqlserver&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+## Experience snapshot
+
+- Software Development Engineer Intern, AvanSaber
+- Software Engineer, Tata Technologies
+- Web Developer, WiseKreator
+- Web Developer, Iravya Learning Pvt. Ltd.
 
 ---
 
-#### **Cloud Platforms**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)  ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)  
+## Technical areas
+
+**Frontend and app:** React, React Native, Angular, TypeScript, Tailwind CSS  
+**Backend:** Python, Django, FastAPI, Java, Spring Boot, C Sharp, .NET, Node.js  
+**Data:** PostgreSQL, MySQL, SQL Server, Supabase, SQL, stored procedures  
+**Production:** Docker, GitHub Actions, Azure DevOps, Grafana, Loki, Prometheus  
+**AI and ML:** TensorFlow, Keras, ResNet50, RAG, FAISS, model evaluation
 
 ---
 
-#### **Machine Learning Frameworks**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=white)  
+## Publication
+
+**ANN modeling of surface roughness of FDM parts considering the effects of hidden layers, neurons, and process parameters**  
+Advances in Materials and Processing Technologies · Jun 2022
+
+[DOI](https://doi.org/10.1080/2374068X.2022.2091085)
 
 ---
 
-#### **Data Analysis Tools**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) 
+## Contact
 
----
+I am interested in software engineering roles where I can help build useful products, own backend and product decisions, and stay close to how software behaves after release.
 
-#### **Data Visualization**  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)  ![Seaborn](https://img.shields.io/badge/-Seaborn-5C3EE8?logo=python&logoColor=white)  ![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)  ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white)  
-
----
-
-#### **Other Tools**  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)  ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=white)  
-
----
-
-#### **General Expertise**  
-![REST API](https://img.shields.io/badge/-REST%20API-009688?logo=api&logoColor=white)  ![Microservices](https://img.shields.io/badge/-Microservices-6A1B9A?logo=graphql&logoColor=white)  ![Authentication](https://img.shields.io/badge/-Authentication-FF6F00?logo=security&logoColor=white)  ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)  ![Payment Integration](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white)  
-
----
-
-#### **Soft Skills**  
-- Analytical Problem Solving  
-- Driving Business Impact  
-- Cross-Functional Team Collaboration  
-- Strong Communication Skills
-
-#### 🚀 Let’s Collaborate
-I am always open to collaborating on exciting projects, contributing to open source, and exploring roles in full-stack development and data science, where I can apply my skills in AI-powered systems, data-driven decision making, and software engineering to build impactful, intelligent solutions. Check out my repositories to see my work, and feel free to connect!
-
-
+[LinkedIn](https://linkedin.com/in/mohit-naik21) · [Email](mailto:mohit.naik@uga.edu)

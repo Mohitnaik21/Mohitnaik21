@@ -4,9 +4,11 @@ Full stack software engineer working on data-heavy products, backend systems, an
 
 I build websites, apps, backend services, and database-backed features, with attention to what happens after code is shipped.
 
-Currently working on Web3Health at the University of Georgia SensorWeb Lab, a platform for consented wearable and survey data collection across iOS, Android, and web.
+Currently working as a Software Engineer at AvanSaber, where I build and maintain backend services, web features, and the data flows behind them. My work covers writing production code, working with databases and APIs, and supporting releases and troubleshooting after deployment.
 
-[Portfolio](https://mohitnaik21.github.io/) · [LinkedIn](https://linkedin.com/in/mohit-naik21) · [Email](mailto:mohit.naik@uga.edu) · [GitHub](https://github.com/Mohitnaik21)
+I recently worked on Web3Health at the University of Georgia SensorWeb Lab, a platform for consented wearable and survey data collection across iOS, Android, and web.
+
+[Portfolio](https://mohitnaik21.github.io/) · [LinkedIn](https://linkedin.com/in/mohit-naik21) · [Email](mailto:mohitnaik4900853@gmail.com) · [GitHub](https://github.com/Mohitnaik21)
 
 ---
 
@@ -54,7 +56,7 @@ Repository: [Agentic AI API Builder](https://github.com/Mohitnaik21/Agentic-AI-A
 
 ## Experience snapshot
 
-- Software Development Engineer Intern, AvanSaber
+- Software Engineer, AvanSaber
 - Software Engineer, Tata Technologies
 - Web Developer, WiseKreator
 - Web Developer, Iravya Learning Pvt. Ltd.
@@ -84,4 +86,4 @@ Advances in Materials and Processing Technologies · Jun 2022
 
 I am interested in software engineering roles where I can help build useful products, own backend and product decisions, and stay close to how software behaves after release.
 
-[LinkedIn](https://linkedin.com/in/mohit-naik21) · [Email](mailto:mohit.naik@uga.edu)
+[LinkedIn](https://linkedin.com/in/mohit-naik21) · [Email](mailto:mohitnaik4900853@gmail.com)
